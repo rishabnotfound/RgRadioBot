@@ -1,5 +1,7 @@
 # 🎵 RgRadioBot
 
+<img width="1584" height="886" alt="image" src="https://github.com/user-attachments/assets/954fde75-f6be-45d6-bba1-368e18f52442" />
+
 Welcome to RgRadioBot, your personal Discord radio bot that brings non-stop music to your server 24/7! 📻🎶
 
 ## Introduction
